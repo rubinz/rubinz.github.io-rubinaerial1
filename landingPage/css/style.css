@@ -1,5 +1,5 @@
 /* 
-    Document   : Quick - default
+    Document   : Quick - video bg
     Created on : Jul 22, 2014, 10:15:10 PM
     Author     : Design_mylife
     Description:Multi options one page creative theme for agencies
@@ -51,12 +51,12 @@ strong,b{
     font-weight: 400;
     font-family: 'Montserrat', sans-serif;
 }
-p{
-    letter-spacing: 0.09em;
-}
 h1,h2,h3,h4,h5,h6{
     margin-top: 0px;
     font-family: 'Montserrat', sans-serif;
+}
+p{
+    letter-spacing: 0.09em;
 }
 label{
     font-weight: 400;
@@ -124,7 +124,7 @@ label{
     background-size: auto;
     background-repeat: repeat;
     background-attachment: fixed;
-    background-image: url(../img/showcase-1.jpg);
+/*    background-image: url(../img/showcase-1.jpg);*/
     display: table;
     width: 100%;
     height: 100%;
@@ -142,7 +142,7 @@ label{
     height: 100%;
     background-image: url(../img/pattern.png);
     background-repeat: repeat;
-    background-color: rgba(44,62,80,0.6);
+    background-color: rgba(44,62,80,0.2);
     z-index: 2;
 }
 .home-content {
@@ -174,7 +174,7 @@ h2.slide-btm-text{
     padding: 10px 0px;
     border-bottom: 3px solid rgba(255,255,255,0.15);
     text-align: center;
-      font-weight: 400;
+    font-weight: 400;
     font-size: 15px;
     letter-spacing: .08em;
     color:#fff;
