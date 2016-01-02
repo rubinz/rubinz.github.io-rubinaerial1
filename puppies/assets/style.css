@@ -69,14 +69,6 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 #works figcaption a:hover{text-decoration: none;padding: 0 3em;}
 /*works*/
 
-/*team*/
-.team figure{width: 100%;}
-.team img{width: 100%;}
-.team b{font-size: 1.2em;display: block;}
-.team a i.fa{color: #fff; font-size: 2em;}
-.team a i.fa:hover{color: #21abca;}
-
-
 .highlight-info{ background:url(../images/lab.jpg) center fixed; background-size: cover; color:#fff;}
 .highlight-info .overlay{background: rgba(33,171,202,0.5);}
 .highlight-info h4{color: #fff;margin:0.5em 0 0 0;}
